@@ -1,0 +1,6 @@
+
+@RestControll
+public class HelloWorldController {
+
+
+}
