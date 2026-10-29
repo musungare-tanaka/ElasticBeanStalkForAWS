@@ -9,6 +9,6 @@ public class HelloWorldController {
 
     @GetMapping("/hello")
     public String helloWorld() {
-        return "Hello Worlthere Tanaka";
+        return "Hello Worlthere Tanaka Musungare";
     }
 }
